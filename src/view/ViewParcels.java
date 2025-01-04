@@ -208,10 +208,10 @@ public class ViewParcels extends javax.swing.JPanel {
 
     private void btn_newparcel1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_newparcel1ActionPerformed
        
-        /* AddParcelDialog dialog = new AddParcelDialog((JFrame) SwingUtilities.getWindowAncestor(this), true);
+         AddParcelDialog dialog = new AddParcelDialog((JFrame) SwingUtilities.getWindowAncestor(this), true);
        dialog.setLocationRelativeTo(this); 
         dialog.setVisible(true); 
-        */
+        
       
     }//GEN-LAST:event_btn_newparcel1ActionPerformed
 

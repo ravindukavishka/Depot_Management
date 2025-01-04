@@ -138,9 +138,9 @@ public class ViewCustomers extends javax.swing.JPanel {
     }//GEN-LAST:event_btn_laodQueueActionPerformed
 
     private void btn_addCusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_addCusActionPerformed
-      /*   AddCustomersDialog dialog = new AddCustomersDialog((JFrame) SwingUtilities.getWindowAncestor(this), true);
+         AddCustomersDialog dialog = new AddCustomersDialog((JFrame) SwingUtilities.getWindowAncestor(this), true);
          dialog.setLocationRelativeTo(this); 
-        dialog.setVisible(true); */
+        dialog.setVisible(true); 
     }//GEN-LAST:event_btn_addCusActionPerformed
 
     private void btn_dlt_cusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_dlt_cusActionPerformed
